@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget{
   Widget build (BuildContext Context){
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'LOGIN FDS',
+      title: 'LOGIN',
       theme: ThemeData.dark(),
       home: LoginPage(),
     );
